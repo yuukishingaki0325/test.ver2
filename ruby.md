@@ -9,3 +9,5 @@ i cannnot play
 
 ブランチ作成ー
 世界戦の変更などなど
+
+part2
