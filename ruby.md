@@ -11,3 +11,6 @@ i cannnot play
 世界戦の変更などなど
 
 part2
+
+cloneを作成
+レベル6計画発動
